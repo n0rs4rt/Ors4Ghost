@@ -1,5 +1,5 @@
 # ORS4GHOST
-
+![ORS4GHOST Banner](https://github.com/n0rs4rt/Ors4Ghost/blob/9ecdb6e94acf8a3853cbcb1136dee6e5133c5410/assets/ors4gosht.png)
 Herramienta desarrollada en Python orientada a la ocultación estructurada de archivos y carpetas en sistemas Windows.
 
 ## Descripción
@@ -30,6 +30,8 @@ Un usuario con conocimientos intermedios o avanzados en sistemas operativos podr
 - Registro de actividad (historial de elementos protegidos)
 - Interfaz con autenticación de usuario
 
+![ORS4GHOST funcion ](https://github.com/n0rs4rt/Ors4Ghost/blob/9ecdb6e94acf8a3853cbcb1136dee6e5133c5410/assets/Screenshot%202026-04-15%20070055.png)
+
 ## Sistema de usuario
 
 - Solo se permite un usuario
@@ -37,6 +39,8 @@ Un usuario con conocimientos intermedios o avanzados en sistemas operativos podr
 - Clave de recuperación generada en el registro inicial
 - Registro del último acceso al sistema
 - Verificación básica de integridad de la base de datos
+
+![ORS4GHOST Loggin](https://github.com/n0rs4rt/Ors4Ghost/blob/main/assets/Screenshot%202026-04-15%20070219.png)
 
 ## Funcionamiento general
 
