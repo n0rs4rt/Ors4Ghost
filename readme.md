@@ -20,6 +20,8 @@ Está pensada para:
 
 Un usuario con conocimientos intermedios o avanzados en sistemas operativos podría acceder a la información si sabe qué buscar.
 
+[ Descargar última versión](https://github.com/n0rs4rt/)
+
 ## Características principales
 
 - Ocultación de archivos y carpetas en una ubicación interna no visible
@@ -55,7 +57,7 @@ Para restaurar:
 - Puede hacerse desde el registro (modo normal)
 - O mediante recuperación manual seleccionando la ruta original
 
-## Consideraciones y posibles errores
+## Escenarios a tener en cuenta
 
 Algunos escenarios comunes:
 
