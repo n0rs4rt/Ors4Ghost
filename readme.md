@@ -125,6 +125,8 @@ En caso de redistribución o uso derivado, se solicita mantener el crédito al a
 
 ## Licencia
 
+![ORS4GHOST Loggin](https://github.com/n0rs4rt/Ors4Ghost/blob/0cca137af169548be560ee124e5e84677697c9be/assets/Screenshot%202026-04-19%20115357.png)
+
 Este proyecto está bajo la licencia MIT.
 
 Autor: ORS4TECH (Nelson Arteaga)  
