@@ -8,6 +8,17 @@ ORS4GHOST permite ocultar archivos y carpetas moviéndolos a una ubicación inte
 
 A diferencia de una ocultación básica, los elementos no permanecen en su ubicación original, sino que son reorganizados y gestionados internamente junto a metadatos que permiten su recuperación posterior.
 
+## Versiones disponibles
+
+- **Versión principal**  
+  Uso normal de la aplicación sin consola visible.
+  [ Descargar última versión](https://github.com/n0rs4rt/Ors4Ghost/releases/download/v1.0.0/Ors4Ghost.zip)
+
+- **Versión debug**  
+  Muestra una consola con información en tiempo real.  
+  Recomendada únicamente en caso de fallos o para diagnóstico.
+  [ Descargar última versión](https://github.com/n0rs4rt/Ors4Ghost/releases/download/v1.0.0/ORS4GHOST_v1.0_debug.zip)
+
 ## Importante
 
 Esta herramienta no es un sistema de cifrado avanzado ni una solución de seguridad de alto nivel.
@@ -20,8 +31,6 @@ Está pensada para:
 
 Un usuario con conocimientos intermedios o avanzados en sistemas operativos podría acceder a la información si sabe qué buscar.
 
-[ Descargar última versión](https://github.com/n0rs4rt/)
-
 ## Características principales
 
 - Ocultación de archivos y carpetas en una ubicación interna no visible
@@ -33,6 +42,16 @@ Un usuario con conocimientos intermedios o avanzados en sistemas operativos podr
 - Interfaz con autenticación de usuario
 
 ![ORS4GHOST funcion ](https://github.com/n0rs4rt/Ors4Ghost/blob/9ecdb6e94acf8a3853cbcb1136dee6e5133c5410/assets/Screenshot%202026-04-15%20070055.png)
+
+## Sobre el código
+
+Este proyecto surge a partir de herramientas desarrolladas inicialmente para uso personal en entorno de consola, las cuales fueron adaptadas y extendidas para ofrecer una interfaz gráfica y una experiencia más accesible para el usuario.
+
+El enfoque principal de este proyecto ha sido la funcionalidad y la practicidad, priorizando el uso real de la herramienta sobre una arquitectura compleja.
+
+Como cualquier proyecto en evolución, el código puede seguir mejorando con el tiempo en aspectos como organización interna, optimización o escalabilidad.
+
+Se comparte con el objetivo de aprendizaje, experimentación y mejora continua. Cualquier sugerencia es bienvenida.
 
 ## Sistema de usuario
 
